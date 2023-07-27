@@ -1,0 +1,66 @@
+{
+  "appPageId" : "21e72885-b2e3-47f5-89e6-dd6ae698a7a7",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "dataProviders" : [ ],
+  "id" : "0c2c8752-8808-4c98-965a-69771f5d4461",
+  "label" : "Home",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<h1><span style=\"color: rgb(255, 255, 255); font-size: 48px;\">﻿ELIGE TU PROPIA HISTORIA</span></h1>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "57bcc517-52bc-4818-a950-05f6cce1dd70",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "66225561-522e-42f2-99af-7feb722f0e03",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : { },
+      "componentName" : "c:lwcSiteHistory",
+      "id" : "a75cfc28-df8e-44fc-bae2-e4ea926e347d",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "17770a79-cdaf-48f4-9dab-17d61155825a",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<H1>ELIGE TU PROPIA HISTORIA</H1>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "95697ec6-62cf-48d7-9ac2-6fe3716b7cd4",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d9183516-12a1-4716-a661-a4fa30381bae",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Home"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "4fdec287-b746-4861-9d45-9c38d501ea9d",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "0a94bc27-a820-4854-8c5b-f66177f602cb",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "home"
+}

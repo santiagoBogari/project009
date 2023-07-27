@@ -1,0 +1,70 @@
+{
+  "appPageId" : "0075386d-96e5-44e0-8590-4696c92362b2",
+  "componentName" : "siteforce:sldsTwoCol84Layout",
+  "dataProviders" : [ ],
+  "id" : "19a342f2-176b-4be8-b479-491e58046df2",
+  "label" : "establo",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<h1 style=\"font-size:36px\">ELIGE TU PROPIA HISTORIA</h1>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "d46d7348-9ae1-476d-9b16-887b84194662",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "cbf0da7b-8c8c-4912-83ac-bc7a89395b0c",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<div style=\"width: 900px;\n  height: 500px;\n  border-radius: 4px;\"><img src=\"/sfsites/c/resource/granero\" style=\"width:100%;height:100%; object-fit: cover;\"/></div>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "cb300407-c4fc-4fdc-a280-2dabcf94ceb2",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "61916b0c-138d-4de1-97a1-421c14fabf2d",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<div class=\"text1\"><h1 style=\"font-size:36px; padding-left: 10%\">Ups.</br>\nparece que el establo</br>\nya está ocupado,</br>\nlo lamento,</br>\nson demasiados...</h1></div>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "5fab7caf-8e31-4949-9719-73de7b1125b6",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "4919e2dd-7c0d-4425-bfc7-c8004abb5a97",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "dd4cb5af-5e27-4907-bf4d-4afe3d95f903",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "Home"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "d0031a40-6c95-4c85-a34c-e3d9813ab6c0",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "fa5b91f0-157f-430c-9572-9d5c4fd983f6",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-establo"
+}

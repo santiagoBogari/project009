@@ -1,0 +1,25 @@
+.container {
+    width: 100%;
+    background-color: black;
+    display: flex;
+
+}
+
+.img1,
+.text1 {
+    display: inline-block;
+}
+
+.img1 {
+    width: 60%;
+
+}
+
+.text1 {
+    width: 40%;
+    padding-left: 10%;
+
+}
+h1{
+    color: #AEADB0;
+}

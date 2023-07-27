@@ -1,0 +1,79 @@
+{
+  "appPageId" : "0075386d-96e5-44e0-8590-4696c92362b2",
+  "componentName" : "siteforce:sldsTwoCol84Layout",
+  "dataProviders" : [ ],
+  "id" : "83cf8cc3-0235-4fd4-a7f5-237603eefa76",
+  "label" : "hotel",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<h1 style=\"font-size:36px\">ELIGE TU PROPIA HISTORIA</h1>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "2986129c-df7f-4e29-80c9-dff3952b8289",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "richTextValue" : "<p></p>\n<div style=\"height:60px\"></div>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "b4641146-b4f5-49d1-a83d-39afa4042a47",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "c13ff87b-391c-4637-bdce-b20059468f03",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<div style=\"width: 900px;\n  height: 500px;\n  border-radius: 4px;\"><img src=\"/sfsites/c/resource/hotel\" style=\"width:100%;height:100%; object-fit: cover;\"/></div>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "d8f2d582-f34d-4d05-812c-da358c8d4306",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "ce361345-798b-4eff-af65-ce2d20682ec1",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<div class=\"text1\"><h1 style=\"font-size:36px; padding-left: 10%\">El hotel apesta,</br>\npero ya no importa,</br>\nnecesitas dormir...</h1></div>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "eb6f2bda-ac95-47d8-bf85-7f269ef32cdd",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5e712ed4-a720-4c75-a6bb-261be190378c",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "6e935449-b2d8-43b6-8d06-1f0336dbb0ff",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "Home"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "d18d363d-af33-4a25-bfc0-833de4de2ef4",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "2819b8c2-a457-46af-9360-c2c359eac375",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-hotel"
+}

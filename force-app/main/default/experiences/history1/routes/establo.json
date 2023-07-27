@@ -1,0 +1,11 @@
+{
+  "activeViewId": "19a342f2-176b-4be8-b479-491e58046df2",
+  "appPageId": "0075386d-96e5-44e0-8590-4696c92362b2",
+  "configurationTags": [],
+  "id": "c0cd28f9-8092-4b37-bda0-3f279b7ef096",
+  "label": "establo",
+  "pageAccess": "Public",
+  "routeType": "custom-establo",
+  "type": "route",
+  "urlPrefix": "hotel/hospital/establo"
+}

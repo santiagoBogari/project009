@@ -1,0 +1,70 @@
+{
+  "appPageId" : "0075386d-96e5-44e0-8590-4696c92362b2",
+  "componentName" : "siteforce:sldsTwoCol84Layout",
+  "dataProviders" : [ ],
+  "id" : "df016365-2767-478a-bbd1-12cd21f4391c",
+  "label" : "auto",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<h1 style=\"font-size:36px\">ELIGE TU PROPIA HISTORIA</h1>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "ca68cc8b-4190-4df5-8dc3-218e3246d65e",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "50965116-67c2-46bd-aef7-55c66808bfef",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<div style=\"width: 900px;\n  height: 500px;\n  border-radius: 4px;\"><img src=\"/sfsites/c/resource/auto\" style=\"width:100%;height:100%; object-fit: cover;\"/></div>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "357f41d4-467f-4697-9f5d-13e792688d1c",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "cb0bb7a1-6b31-4fe0-b674-31df4fdd47ba",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<div class=\"text1\"><h1 style=\"font-size:36px; padding-left: 10%\">Duermes en el auto,</br>\nmaldito pueblo,</br>\nmaldita niebla,</br>\nno ves a nadie en la calle...</br>\n</br>\n...mientras duermes</br>\nalgo rompe la ventana</br>\ny te ataca, luchas, pero,</br>\nrecibes una herida letal.</h1></div>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "b69bd3a9-91ef-4f05-88a8-19d5dd3b68c5",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "cda285bd-b14e-41a9-a916-bb8d7ed7ddb0",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "978786ac-4b5a-44ae-a130-39e3926bc87f",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "Home"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "6cc7a181-38e1-46bf-a679-d30c8bfdc47c",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "9e3be88d-3239-4518-b4f4-2dfe4dbc234c",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-auto"
+}

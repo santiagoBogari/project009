@@ -1,0 +1,11 @@
+{
+  "activeViewId": "e9299ec8-9004-4bf4-b7e6-d362b2d6f6cb",
+  "appPageId": "0075386d-96e5-44e0-8590-4696c92362b2",
+  "configurationTags": [],
+  "id": "85105372-c321-4f82-9c6c-61875378acc1",
+  "label": "hospital",
+  "pageAccess": "Public",
+  "routeType": "custom-hospital",
+  "type": "route",
+  "urlPrefix": "hospital"
+}

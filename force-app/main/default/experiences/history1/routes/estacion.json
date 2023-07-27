@@ -1,0 +1,11 @@
+{
+  "activeViewId" : "2a2f3e96-1448-4a4a-b931-1ec78e34fce7",
+  "appPageId" : "0075386d-96e5-44e0-8590-4696c92362b2",
+  "configurationTags" : [ ],
+  "id" : "9ccd5154-4d1f-4004-81b3-47a40cd0e23c",
+  "label" : "estacion",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-estacion",
+  "type" : "route",
+  "urlPrefix" : "auto/estacion"
+}

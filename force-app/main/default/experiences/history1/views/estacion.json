@@ -1,0 +1,79 @@
+{
+  "appPageId" : "0075386d-96e5-44e0-8590-4696c92362b2",
+  "componentName" : "siteforce:sldsTwoCol84Layout",
+  "dataProviders" : [ ],
+  "id" : "2a2f3e96-1448-4a4a-b931-1ec78e34fce7",
+  "label" : "estacion",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<h1 style=\"font-size:36px\">ELIGE TU PROPIA HISTORIA</h1>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "3c29856e-0fe9-46e1-814a-e47fa15c4451",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "richTextValue" : "<p></p>\n<div style=\"height:60px\"></div>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "0ce4299a-2cd2-47a6-8cbf-ca5dde63d22a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "e6037756-e59e-439f-aa43-21655ff83c05",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<div style=\"width: 900px;\n  height: 500px;\n  border-radius: 4px;\"><img src=\"/sfsites/c/resource/estacion\" style=\"width:100%;height:100%; object-fit: cover;\"/></div>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "cbe431d5-9a89-4ba1-b4e5-1457b8eb9ed1",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "62a110fa-4cf3-4dfe-a9dc-e72a6cfa4893",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<div class=\"text1\"><h1 style=\"font-size:36px; padding-left: 10%\">La estación de gasolina,<br>\nestá cerrada !<br>\nya es muy tarde,<br>\nnecesitas descansar,<br>\npuedes dormir en el auto,<br>\nen el hotel,<br>\no en el establo...</h1></div>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "969885e9-fdc7-4fe6-b3e4-3ad41a21afe2",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f622a5eb-f1c7-42c1-93f5-744c063f5e22",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "0c4d2153-b17c-4e84-b3f1-d83ef1e5d02b",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "Home"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "dd4d3db5-39cb-48be-b2c8-7034c514d7a4",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "af00255c-bb4e-469f-b376-b1d72617768f",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-estacion"
+}

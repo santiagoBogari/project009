@@ -1,0 +1,82 @@
+{
+  "appPageId" : "0075386d-96e5-44e0-8590-4696c92362b2",
+  "componentName" : "siteforce:sldsTwoCol84Layout",
+  "dataProviders" : [ ],
+  "id" : "d743953b-83c5-46cb-89b9-20be557bb594",
+  "label" : "Home",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<h1 style=\"font-size:36px\">ELIGE TU PROPIA HISTORIA</h1>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "caf3e225-7977-49bb-8106-917ef30f35a0",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "c374d187-7dd8-4ff6-917a-85a60e97e866",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<div style=\"width: 900px;\n  height: 500px;\n  border-radius: 4px;\"><img src=\"/sfsites/c/resource/pueblo\" style=\"width:100%;height:100%; object-fit: cover;\"/></div>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "a4b41d87-222f-4376-bf75-28a7dd99f876",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "70cc36c0-6939-4713-8aa7-401ba3c6109f",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<h1><a href=\"/establo/estacion\">CLICK PARA CONTINUAR</a></h1>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "f5d8e30e-66f1-41c7-9667-2b7d6e941e18",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "1d4b9bc2-a99b-4e93-af2e-b1ba7b399d5e",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Home"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "03f89232-9ce6-4929-8249-1898ce843364",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "7a2a42f4-bb96-4086-9927-be89c7c953aa",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<div class=\"text1\"><h1 style=\"font-size:36px; padding-left: 10%\">Conduciendo de noche,<br>\n        con densa niebla,<br>\n        estás perdido,<br>\n        no hay señal en el celular,<br>\n        casi sin gasolina,<br>\n        por suerte\n        encuentras un pueblo...</h1></div>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "22e3d3d2-b1fd-42fa-9218-886ac31a82e1",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "2a571eb3-0b4d-4908-b69e-d493ed1cfd4b",
+    "regionName" : "sidebar",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "home"
+}

@@ -1,0 +1,11 @@
+{
+  "activeViewId" : "83cf8cc3-0235-4fd4-a7f5-237603eefa76",
+  "appPageId" : "0075386d-96e5-44e0-8590-4696c92362b2",
+  "configurationTags" : [ ],
+  "id" : "5cb5d3f8-9800-4de0-898e-02c325707a2a",
+  "label" : "hotel",
+  "pageAccess" : "Public",
+  "routeType" : "custom-hotel",
+  "type" : "route",
+  "urlPrefix" : "hotel"
+}
